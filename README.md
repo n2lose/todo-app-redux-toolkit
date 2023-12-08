@@ -1,5 +1,5 @@
 # todo-app-redux-toolkit
-Create React Todo App use [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Vite](https://vitejs.dev), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io) , [Redux Toolkit](https://redux-toolkit.js.org/) 
+Create React Todo App use [Vite](https://vitejs.dev), [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io) , [Redux Toolkit](https://redux-toolkit.js.org/) 
 
 # Getting Started
 ```bash
