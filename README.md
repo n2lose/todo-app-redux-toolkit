@@ -1,17 +1,15 @@
-# React-ts-vite-eslint-prettier-tailwindcss boilerplate
-An update &amp; configured [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Vite](https://vitejs.dev), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io) boilerplate for 2023
+# todo-app-redux-toolkit
+Create React Todo App use [Vite](https://vitejs.dev), [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io) , [Redux Toolkit](https://redux-toolkit.js.org/) 
 
 # Getting Started
 ```bash
-npx degit bezlant/react-ts-vite-eslint-prettier-tailwind my-awesome-app
-cd my-awesome-app
-yarn install
-yarn dev
+git clone https://github.com/n2lose/todo-app-redux-toolkit
+cd todo-app-redux-toolkit
+npm install
+npm run dev
 ```
 
 # Features
-- [Speedy Web Compiler](https://swc.rs/)  for fast compilation times
-- Relative paths
-- Imports sort & Unused imports
-- [Svgr](https://react-svgr.com/)
-- Prettier & Eslint for Tailwindcss
+- Create new todo task
+- Create Todo list
+- Filter Todo items by Text, Status, Priority
